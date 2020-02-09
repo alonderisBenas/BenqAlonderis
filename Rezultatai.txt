@@ -1,0 +1,17 @@
+Mokiniu skaicius: 5
+Dalyku skaicius: 3
+1. mokinio pazymaiai: 10 ;
+1. mokinio pazymaiai: 6 ;
+1. mokinio pazymaiai: 9 ;
+2. mokinio pazymaiai: 4 ;
+2. mokinio pazymaiai: 8 ;
+2. mokinio pazymaiai: 7 ;
+3. mokinio pazymaiai: 7 ;
+3. mokinio pazymaiai: 10 ;
+3. mokinio pazymaiai: 6 ;
+4. mokinio pazymaiai: 1 ;
+4. mokinio pazymaiai: 8 ;
+4. mokinio pazymaiai: 5 ;
+5. mokinio pazymaiai: 1 ;
+5. mokinio pazymaiai: 7 ;
+5. mokinio pazymaiai: 6 ;

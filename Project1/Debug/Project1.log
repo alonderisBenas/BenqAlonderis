@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\pg4480jt\desktop\source.cpp(19): warning C4101: 'duomMas': unreferenced local variable
+c:\users\pg4480jt\desktop\source.cpp(83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\PG4480JT\source\repos\Project1\Debug\Project1.exe
